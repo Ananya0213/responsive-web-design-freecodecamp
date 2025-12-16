@@ -27,7 +27,14 @@ https://ananya0213.github.io/responsive-web-design-freecodecamp/recipe-page/
 https://ananya0213.github.io/responsive-web-design-freecodecamp/bookstore-page/
 
 ---
+### ✈️ Travel Agency Page
+- Built using semantic HTML and SEO-friendly metadata
+- Uses images, links, and figure elements to showcase destinations
 
+🔗 Live Demo:  
+https://ananya0213.github.io/responsive-web-design-freecodecamp/travel-agency-page/
+
+---
 ## 🛠️ Skills Gained
 - HTML5 semantic structure
 - Document metadata and accessibility basics
