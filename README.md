@@ -35,6 +35,14 @@ https://ananya0213.github.io/responsive-web-design-freecodecamp/bookstore-page/
 https://ananya0213.github.io/responsive-web-design-freecodecamp/travel-agency-page/
 
 ---
+### 🎧 HTML Audio and Video Player
+- Demonstrates use of HTML5 media elements
+- Includes video playback with controls and audio playback with looping
+
+🔗 Live Demo:  
+https://ananya0213.github.io/responsive-web-design-freecodecamp/media-player-page/
+
+---
 ## 🛠️ Skills Gained
 - HTML5 semantic structure
 - Document metadata and accessibility basics
