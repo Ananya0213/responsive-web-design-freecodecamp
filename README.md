@@ -43,6 +43,14 @@ https://ananya0213.github.io/responsive-web-design-freecodecamp/travel-agency-pa
 https://ananya0213.github.io/responsive-web-design-freecodecamp/media-player-page/
 
 ---
+### 🎬 Video Compilation Page
+- Built using semantic HTML structure
+- Embeds multiple educational videos using iframe elements
+
+🔗 Live Demo:  
+https://ananya0213.github.io/responsive-web-design-freecodecamp/video-compilation-page/
+
+---
 ## 🛠️ Skills Gained
 - HTML5 semantic structure
 - Document metadata and accessibility basics
