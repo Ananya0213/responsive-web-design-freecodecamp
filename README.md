@@ -51,6 +51,14 @@ https://ananya0213.github.io/responsive-web-design-freecodecamp/media-player-pag
 https://ananya0213.github.io/responsive-web-design-freecodecamp/video-compilation-page/
 
 ---
+### 📅 Event Hub Page
+- Built using semantic HTML elements like header, nav, main, section, and article
+- Showcases upcoming and past events with navigation links and images
+
+🔗 Live Demo:  
+https://ananya0213.github.io/responsive-web-design-freecodecamp/event-hub-page/
+
+---
 ## 🛠️ Skills Gained
 - HTML5 semantic structure
 - Document metadata and accessibility basics
