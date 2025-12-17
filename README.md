@@ -59,6 +59,14 @@ https://ananya0213.github.io/responsive-web-design-freecodecamp/video-compilatio
 https://ananya0213.github.io/responsive-web-design-freecodecamp/event-hub-page/
 
 ---
+### 📖 Book Catalog Table
+- Displays structured data using HTML tables
+- Uses thead, tbody, and tfoot for proper table semantics
+
+🔗 Live Demo:  
+https://ananya0213.github.io/responsive-web-design-freecodecamp/book-catalog-table/
+
+---
 ## 🛠️ Skills Gained
 - HTML5 semantic structure
 - Document metadata and accessibility basics
