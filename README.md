@@ -67,6 +67,14 @@ https://ananya0213.github.io/responsive-web-design-freecodecamp/event-hub-page/
 https://ananya0213.github.io/responsive-web-design-freecodecamp/book-catalog-table/
 
 ---
+### 📝 Survey Form (Job Application)
+- Built using HTML form elements and validation
+- Includes inputs, dropdowns, radio buttons, checkboxes, and textarea
+
+🔗 Live Demo:  
+https://ananya0213.github.io/responsive-web-design-freecodecamp/survey-form/
+
+---
 ## 🛠️ Skills Gained
 - HTML5 semantic structure
 - Document metadata and accessibility basics
