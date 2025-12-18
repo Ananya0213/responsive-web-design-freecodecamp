@@ -91,6 +91,14 @@ https://ananya0213.github.io/responsive-web-design-freecodecamp/checkout-page/
 https://ananya0213.github.io/responsive-web-design-freecodecamp/movie-review-page/
 
 ---
+### 🎼 Multimedia Player
+- Demonstrates accessible audio and video playback
+- Includes subtitles and a transcript for improved accessibility
+
+🔗 Live Demo:  
+https://ananya0213.github.io/responsive-web-design-freecodecamp/multimedia-player-page/
+
+---
 ## 🛠️ Skills Gained
 - HTML5 semantic structure
 - Document metadata and accessibility basics
