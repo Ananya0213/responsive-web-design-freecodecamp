@@ -83,6 +83,14 @@ https://ananya0213.github.io/responsive-web-design-freecodecamp/survey-form/
 https://ananya0213.github.io/responsive-web-design-freecodecamp/checkout-page/
 
 ---
+### 🎬 Movie Review Page
+- Built using semantic HTML and accessible content structure
+- Displays movie details, ratings, and cast information
+
+🔗 Live Demo:  
+https://ananya0213.github.io/responsive-web-design-freecodecamp/movie-review-page/
+
+---
 ## 🛠️ Skills Gained
 - HTML5 semantic structure
 - Document metadata and accessibility basics
