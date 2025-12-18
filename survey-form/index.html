@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Job Application Survey</title>
+</head>
+<body>
+
+  <h1 id="title">Job Application Survey</h1>
+
+  <p id="description">
+    Please fill out this form to apply for the position and help us understand
+    your background and interests.
+  </p>
+
+  <form id="survey-form">
+
+    <!-- Name -->
+    <label id="name-label" for="name">Full Name</label><br>
+    <input
+      type="text"
+      id="name"
+      name="name"
+      placeholder="Enter your full name"
+      required
+    ><br><br>
+
+    <!-- Email -->
+    <label id="email-label" for="email">Email Address</label><br>
+    <input
+      type="email"
+      id="email"
+      name="email"
+      placeholder="Enter your email address"
+      required
+    ><br><br>
+
+    <!-- Number -->
+    <label id="number-label" for="number">Years of Experience</label><br>
+    <input
+      type="number"
+      id="number"
+      name="experience"
+      min="0"
+      max="40"
+      placeholder="Enter years of experience"
+    ><br><br>
+
+    <!-- Dropdown -->
+    <label for="dropdown">Preferred Job Role</label><br>
+    <select id="dropdown" name="role">
+      <option value="">Select a role</option>
+      <option value="frontend">Frontend Developer</option>
+      <option value="backend">Backend Developer</option>
+      <option value="fullstack">Full Stack Developer</option>
+    </select><br><br>
+
+    <!-- Radio buttons -->
+    <p>Employment Type</p>
+    <label>
+      <input type="radio" name="employment-type" value="full-time">
+      Full-time
+    </label><br>
+    <label>
+      <input type="radio" name="employment-type" value="internship">
+      Internship
+    </label><br><br>
+
+    <!-- Checkboxes -->
+    <p>Technical Skills</p>
+    <label>
+      <input type="checkbox" value="html">
+      HTML
+    </label><br>
+    <label>
+      <input type="checkbox" value="css">
+      CSS
+    </label><br>
+    <label>
+      <input type="checkbox" value="javascript">
+      JavaScript
+    </label><br><br>
+
+    <!-- Textarea -->
+    <label for="comments">Additional Comments</label><br>
+    <textarea
+      id="comments"
+      name="comments"
+      placeholder="Tell us more about yourself..."
+      rows="4"
+      cols="40"
+    ></textarea><br><br>
+
+    <!-- Submit -->
+    <button id="submit" type="submit">Submit Application</button>
+
+  </form>
+
+</body>
+</html>
