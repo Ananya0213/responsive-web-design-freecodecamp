@@ -75,6 +75,14 @@ https://ananya0213.github.io/responsive-web-design-freecodecamp/book-catalog-tab
 https://ananya0213.github.io/responsive-web-design-freecodecamp/survey-form/
 
 ---
+### 💳 Checkout Page
+- Built using semantic HTML and accessible form elements
+- Uses required fields, ARIA attributes, and help text for usability
+
+🔗 Live Demo:  
+https://ananya0213.github.io/responsive-web-design-freecodecamp/checkout-page/
+
+---
 ## 🛠️ Skills Gained
 - HTML5 semantic structure
 - Document metadata and accessibility basics
