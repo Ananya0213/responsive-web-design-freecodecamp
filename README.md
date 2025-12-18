@@ -99,6 +99,14 @@ https://ananya0213.github.io/responsive-web-design-freecodecamp/movie-review-pag
 https://ananya0213.github.io/responsive-web-design-freecodecamp/multimedia-player-page/
 
 ---
+### 💼 Business Card
+- Built using HTML and external CSS
+- Demonstrates layout styling, typography, and responsive images
+
+🔗 Live Demo:  
+https://ananya0213.github.io/responsive-web-design-freecodecamp/business-card/
+
+---
 ## 🛠️ Skills Gained
 - HTML5 semantic structure
 - Document metadata and accessibility basics
