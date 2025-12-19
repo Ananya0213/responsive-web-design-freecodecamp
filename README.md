@@ -115,6 +115,14 @@ https://ananya0213.github.io/responsive-web-design-freecodecamp/business-card/
 https://ananya0213.github.io/responsive-web-design-freecodecamp/stylized-todo-list/
 
 ---
+### 📰 Blog Post Card
+- Styled blog card using HTML and CSS
+- Demonstrates background styling, borders, spacing, and hover effects
+
+🔗 Live Demo:  
+https://ananya0213.github.io/responsive-web-design-freecodecamp/blog-post-card/
+
+---
 ## 🛠️ Skills Gained
 - HTML5 semantic structure
 - Document metadata and accessibility basics
