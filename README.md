@@ -107,6 +107,14 @@ https://ananya0213.github.io/responsive-web-design-freecodecamp/multimedia-playe
 https://ananya0213.github.io/responsive-web-design-freecodecamp/business-card/
 
 ---
+### ✅ Stylized To-Do List
+- Demonstrates link styling using CSS pseudo-classes
+- Includes hover, focus, active, and visited states
+
+🔗 Live Demo:  
+https://ananya0213.github.io/responsive-web-design-freecodecamp/stylized-todo-list/
+
+---
 ## 🛠️ Skills Gained
 - HTML5 semantic structure
 - Document metadata and accessibility basics
