@@ -123,6 +123,14 @@ https://ananya0213.github.io/responsive-web-design-freecodecamp/stylized-todo-li
 https://ananya0213.github.io/responsive-web-design-freecodecamp/blog-post-card/
 
 ---
+### 📢 Event Flyer Page
+- Built using semantic HTML and responsive CSS
+- Uses viewport units and calc() for layout control
+
+🔗 Live Demo:  
+https://ananya0213.github.io/responsive-web-design-freecodecamp/event-flyer-page/
+
+---
 ## 🛠️ Skills Gained
 - HTML5 semantic structure
 - Document metadata and accessibility basics
