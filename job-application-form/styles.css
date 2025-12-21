@@ -55,12 +55,12 @@ textarea:invalid {
 }
 
 .radio-group input[type="radio"]:checked {
-  accent-color: #2563eb;
+  border: 2px solid #2563eb;
+  background-color: #dbeafe;
   box-shadow: 0 0 5px #2563eb;
 }
 
-.radio-group input[type="radio"]:checked + span,
-.radio-group input[type="radio"]:checked + label {
+.radio-group label:has(input[type="radio"]:checked) {
   color: #2563eb;
 }
 
