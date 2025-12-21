@@ -131,6 +131,14 @@ https://ananya0213.github.io/responsive-web-design-freecodecamp/blog-post-card/
 https://ananya0213.github.io/responsive-web-design-freecodecamp/event-flyer-page/
 
 ---
+### 🧑‍💼 Job Application Form
+- Built using HTML forms and advanced CSS pseudo-classes
+- Includes validation, focus states, and interactive radio buttons
+
+🔗 Live Demo:  
+https://ananya0213.github.io/responsive-web-design-freecodecamp/job-application-form/
+
+---
 ## 🛠️ Skills Gained
 - HTML5 semantic structure
 - Document metadata and accessibility basics
