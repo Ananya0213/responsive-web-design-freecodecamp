@@ -139,6 +139,13 @@ https://ananya0213.github.io/responsive-web-design-freecodecamp/event-flyer-page
 https://ananya0213.github.io/responsive-web-design-freecodecamp/job-application-form/
 
 ---
+### 🎨 Colored Boxes
+- Demonstrates CSS color formats: HEX, RGB, HSL, and named colors
+
+🔗 Live Demo:  
+https://ananya0213.github.io/responsive-web-design-freecodecamp/colored-boxes/
+
+----
 ## 🛠️ Skills Gained
 - HTML5 semantic structure
 - Document metadata and accessibility basics
