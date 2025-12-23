@@ -154,6 +154,14 @@ https://ananya0213.github.io/responsive-web-design-freecodecamp/colored-boxes/
 https://ananya0213.github.io/responsive-web-design-freecodecamp/contact-form/
 
 ---
+### ✅ Feature Selection
+- Custom checkbox UI built using pure HTML and CSS
+- Styled checkmarks using appearance:none and pseudo-elements
+
+🔗 Live Demo:  
+https://ananya0213.github.io/responsive-web-design-freecodecamp/feature-selection/
+
+---
 ## 🛠️ Skills Gained
 - HTML5 semantic structure
 - Document metadata and accessibility basics
