@@ -162,6 +162,14 @@ https://ananya0213.github.io/responsive-web-design-freecodecamp/contact-form/
 https://ananya0213.github.io/responsive-web-design-freecodecamp/feature-selection/
 
 ---
+### 🔒 Confidential Email
+- Styled email layout using box-sizing, transforms, and blur filters
+- Includes rotated stamps and blurred sensitive information
+
+🔗 Live Demo:  
+https://ananya0213.github.io/responsive-web-design-freecodecamp/confidential-email/
+
+---
 ## 🛠️ Skills Gained
 - HTML5 semantic structure
 - Document metadata and accessibility basics
