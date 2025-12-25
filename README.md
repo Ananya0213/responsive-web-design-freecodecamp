@@ -170,6 +170,14 @@ https://ananya0213.github.io/responsive-web-design-freecodecamp/feature-selectio
 https://ananya0213.github.io/responsive-web-design-freecodecamp/confidential-email/
 
 ---
+### 💳 Pricing Plans
+- Responsive pricing layout built using Flexbox
+- Demonstrates flex-wrap, ordering, and flex-grow
+
+🔗 Live Demo:  
+https://ananya0213.github.io/responsive-web-design-freecodecamp/pricing-plans/
+
+---
 ## 🛠️ Skills Gained
 - HTML5 semantic structure
 - Document metadata and accessibility basics
