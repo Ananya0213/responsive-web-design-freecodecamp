@@ -178,6 +178,14 @@ https://ananya0213.github.io/responsive-web-design-freecodecamp/confidential-ema
 https://ananya0213.github.io/responsive-web-design-freecodecamp/pricing-plans/
 
 ---
+### 📰 Newspaper Article
+- Typography-focused article layout using relative font units
+- Demonstrates rem, em, line-height, and ::first-letter styling
+
+🔗 Live Demo:  
+https://ananya0213.github.io/responsive-web-design-freecodecamp/newspaper-article/
+
+---
 ## 🛠️ Skills Gained
 - HTML5 semantic structure
 - Document metadata and accessibility basics
