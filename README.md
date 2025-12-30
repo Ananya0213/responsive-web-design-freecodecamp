@@ -192,6 +192,7 @@ https://ananya0213.github.io/responsive-web-design-freecodecamp/newspaper-articl
 - Content organization using divs
 - Deploying static websites using GitHub Pages
 - Version control with Git and GitHub
+- CSS
 
 ## 📌 Notes
 All projects were customized beyond the base freeCodeCamp examples to ensure originality and better understanding of the concepts.
